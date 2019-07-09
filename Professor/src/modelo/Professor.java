@@ -51,5 +51,9 @@ public class Professor {
     public String toString() {
         return nome + sobrenome;
     }
+
+    public void setEnderço(String text) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
